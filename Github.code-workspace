@@ -1,22 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "."
-		},
-		{
-			"path": "../Ansible"
+			"path": "../Ansible-Local-Environment-Linux"
 		},
 		{
 			"path": "../AutoScan"
 		},
 		{
-			"path": "../HTB-Scripts"
-		},
-		{
 			"path": "../bca_new_cgc"
 		},
 		{
-			"path": "../Hacker_Rank"
+			"path": "../CloudFlare-Scripts"
+		},
+		{
+			"path": "../Hacker-Rank"
+		},
+		{
+			"path": "../HTB-Scripts"
 		},
 		{
 			"path": "../Internshala"
@@ -25,13 +25,13 @@
 			"path": "../ML"
 		},
 		{
-			"path": "../TeluskoPython"
-		},
-		{
-			"path": "../CloudFlare-Scripts"
+			"path": "."
 		},
 		{
 			"path": "../Pythonwithmosh-Solutions"
+		},
+		{
+			"path": "../TeluskoPython"
 		}
 	]
 }
