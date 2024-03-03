@@ -25,10 +25,13 @@
 			"path": "../ML"
 		},
 		{
-			"path": "../Python_with_mosh"
+			"path": "../TeluskoPython"
 		},
 		{
-			"path": "../TeluskoPython"
+			"path": "../CloudFlare-Scripts"
+		},
+		{
+			"path": "../Pythonwithmosh-Solutions"
 		}
 	]
 }
