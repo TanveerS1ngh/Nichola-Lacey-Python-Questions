@@ -2,6 +2,18 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Ansible"
+		},
+		{
+			"path": "../AutoScan"
+		},
+		{
+			"path": "../HTB-Scripts"
+		},
+		{
+			"path": "../Python"
 		}
 	]
 }
