@@ -13,7 +13,22 @@
 			"path": "../HTB-Scripts"
 		},
 		{
-			"path": "../Python"
+			"path": "../bca_new_cgc"
+		},
+		{
+			"path": "../Hacker_Rank"
+		},
+		{
+			"path": "../Internshala"
+		},
+		{
+			"path": "../ML"
+		},
+		{
+			"path": "../Python_with_mosh"
+		},
+		{
+			"path": "../TeluskoPython"
 		}
 	]
 }
